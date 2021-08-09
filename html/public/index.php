@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
-error_reporting(0);
+
 
 // [ 应用入口文件 ]
 namespace think;
@@ -20,3 +20,5 @@ require __DIR__ . '/../thinkphp/base.php';
 
 // 执行应用并响应
 Container::get('app')->run()->send();
+
+error_reporting(0);
