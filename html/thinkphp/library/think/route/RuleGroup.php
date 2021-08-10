@@ -11,6 +11,8 @@
 
 namespace think\route;
 
+error_reporting(0);
+
 use think\Container;
 use think\Exception;
 use think\Request;
