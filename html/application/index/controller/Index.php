@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 namespace app\index\controller;
 
 class Index
